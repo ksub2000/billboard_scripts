@@ -3,7 +3,7 @@
 INPUTFILE="test_python_songs_output.csv"
 OUTFILENAME="mini_spotify_data.json"
 
-TOKEN="BQDkEIor0JvuAFqOLLZFxQiR48clKV00wMMYcDNlycnfK6JCXvNxa3PQHhJUjITLONtIUMAMYAYq_2A10gp9sA"
+TOKEN="secret token"
 X=0
 touch $OUTFILENAME
 
