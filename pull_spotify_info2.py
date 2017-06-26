@@ -3,7 +3,7 @@ import codecs, requests, json, os, time, spotipy, spotipy.util, sys
 inputfile = 'June26_songidonly.csv'
 outfilename = 'June26_spotify_info.json'
 
-token = 'BQDvjK95m8MbpScPfkGblYVhVe5iwsq8schsUx7IwIZK-0N9umAMMt6IBuAt-_vM2zDuTzGB2SOmLsadjVWTmA'
+token = 'my secret token that spotify generated for me'
 
 headers = {'Accept': 'application/json',
            'Authorization': 'Bearer ' + token}
